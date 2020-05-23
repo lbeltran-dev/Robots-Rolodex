@@ -3,6 +3,7 @@ import "./App.css";
 import { CardList } from "./components/card-list/card-list.component";
 import { SearchBox } from "./components/search-box/search-box.component";
 
+//Testing git SSH
 class App extends Component {
   constructor() {
     super();
